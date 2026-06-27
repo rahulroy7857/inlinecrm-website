@@ -18,7 +18,7 @@
 <div class="container">
       <div class="home-hero" data-aos="fade-in" data-duration="0">
         <div class="hero-left">
-          <h1 class="hero-title-txt">Achieve More rahul kuamr & Dream more with <span class="highlighter2">KG2PG Admissions</span> Your Study Partner!</h1>
+          <h1 class="hero-title-txt">Achieve More & Dream more with <span class="highlighter2">KG2PG Admissions</span> Your Study Partner!</h1>
           <div class="comm-para">
             <p>From Kindergarten to Post-Graduation Admissions in India and Abroad! <br>Let us guide you every step of the way!</p>
           </div>
